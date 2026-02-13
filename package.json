@@ -1,0 +1,24 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Inicio de um projeto",
+  "homepage": "https://github.com/maxwellsantnew/clone-tabnews#readme",
+  "bugs": {
+    "url": "https://github.com/maxwellsantnew/clone-tabnews/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxwellsantnew/clone-tabnews.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^14.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
